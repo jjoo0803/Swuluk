@@ -10,8 +10,6 @@ import UIKit
 import Foundation
 
 class InputInfoViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDelegate, UITextFieldDelegate {
-
-    //let catInfo = [["name":"랑이", "photo":UIImage.init(named:"")!], ["name":"랑이", "photo":UIImage.init(named:"")!], ["name":"랑이", "photo":UIImage.init(named:"")!], ["name":"랑이", "photo":UIImage.init(named:"")!]]
     
     func numberOfComponents(in pickerView: UIPickerView) -> Int {
         return 1

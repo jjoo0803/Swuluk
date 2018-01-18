@@ -102,7 +102,7 @@
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="3rw-E2-rAb" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-874" y="24"/>
+            <point key="canvasLocation" x="-956" y="1045"/>
         </scene>
         <!--정보 입력-->
         <scene sceneID="fMT-Fm-Ljf">
@@ -360,7 +360,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ftW-xU-gzX" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="860.625" y="1086.9718309859154"/>
+            <point key="canvasLocation" x="844" y="1045"/>
         </scene>
     </scenes>
     <resources>
