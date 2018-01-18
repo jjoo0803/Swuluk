@@ -25,7 +25,7 @@
 		632604441FF6312F00116B83 /* CityPicker.plist in Resources */ = {isa = PBXBuildFile; fileRef = 632604431FF6312F00116B83 /* CityPicker.plist */; };
 		636D66A01FF3307E00042957 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 636D669F1FF3307E00042957 /* AppDelegate.swift */; };
 		636D66A21FF3307E00042957 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 636D66A11FF3307E00042957 /* ViewController.swift */; };
-		636D66A51FF3307E00042957 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 636D66A31FF3307E00042957 /* Main.storyboard */; };
+		636D66A51FF3307E00042957 /* juheon.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 636D66A31FF3307E00042957 /* juheon.storyboard */; };
 		636D66AA1FF3307E00042957 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 636D66A81FF3307E00042957 /* LaunchScreen.storyboard */; };
 		63E9014E1FFF5EC9002F87F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63E9014D1FFF5EC9002F87F7 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -50,7 +50,7 @@
 		636D669C1FF3307E00042957 /* MyPrototype.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyPrototype.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		636D669F1FF3307E00042957 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		636D66A11FF3307E00042957 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		636D66A41FF3307E00042957 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		636D66A41FF3307E00042957 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/juheon.storyboard; sourceTree = "<group>"; };
 		636D66A91FF3307E00042957 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		636D66AB1FF3307E00042957 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		63E9014D1FFF5EC9002F87F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = SOURCE_ROOT; };
@@ -114,7 +114,7 @@
 				636D66A11FF3307E00042957 /* ViewController.swift */,
 				636D66AB1FF3307E00042957 /* Info.plist */,
 				1C8F0DA520074DA800639495 /* InputInfoViewController.swift */,
-				636D66A31FF3307E00042957 /* Main.storyboard */,
+				636D66A31FF3307E00042957 /* juheon.storyboard */,
 				636D66A81FF3307E00042957 /* LaunchScreen.storyboard */,
 				1C8F0DA12007375900639495 /* CatInfoTableViewController.swift */,
 			);
@@ -190,7 +190,7 @@
 				632604441FF6312F00116B83 /* CityPicker.plist in Resources */,
 				636D66AA1FF3307E00042957 /* LaunchScreen.storyboard in Resources */,
 				63E9014E1FFF5EC9002F87F7 /* Assets.xcassets in Resources */,
-				636D66A51FF3307E00042957 /* Main.storyboard in Resources */,
+				636D66A51FF3307E00042957 /* juheon.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -224,12 +224,12 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		636D66A31FF3307E00042957 /* Main.storyboard */ = {
+		636D66A31FF3307E00042957 /* juheon.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				636D66A41FF3307E00042957 /* Base */,
 			);
-			name = Main.storyboard;
+			name = juheon.storyboard;
 			sourceTree = "<group>";
 		};
 		636D66A81FF3307E00042957 /* LaunchScreen.storyboard */ = {
